@@ -6,6 +6,8 @@
     "navigation" : "https://qxnav.com",
     "Image" : "",
     "task":[
+        
+        "20 * * * * https://raw.githubusercontent.com/iswater/rules/main/jd_big_winner.js, tag=省钱大赢家之翻翻乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "* * * * 1/1 ? https://raw.githubusercontent.com/zwf234/rules/master/js/jd_Delck.js, tag=清除京东ck, img-url=https://qxnav.com/rules/QuantumultX/img/jd.png, enabled=true",
         "11 2,11 * * * https://qxnav.com/rules/QuantumultX/js/zwf234/jd_opencard_Daddy.js, tag=奶爸盛典, img-url=https://qxnav.com/rules/QuantumultX/img/jd.png, enabled=true",
         "0 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutDailyBonus.js, tag=巴哈姆特签到, img-url=https://qxnav.com/rules/QuantumultX/img/bahamutGame.png",
