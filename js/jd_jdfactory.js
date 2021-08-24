@@ -706,10 +706,10 @@ function requireConfig() {
       })
     }
     if($.isQuanX()){
-      $.shareCodesArr = $.getdata('jd_jdfactory') || [];
+      $.shareCodesArr = JSON.parse($.getdata('jd_jdfactory') || "[]");
     }
     // console.log(`\n种豆得豆助力码::${JSON.stringify($.shareCodesArr)}`);
-    console.log(`您提供了${$.shareCodesArr.length}个账号的${$.name}助力码\n`);
+    console.log(`您提供了${$.shareCodesArr.length}个账号的${$.name}助力码${$.shareCodesArr}\n`);
     resolve()
   })
 }
