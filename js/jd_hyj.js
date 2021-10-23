@@ -5,7 +5,7 @@
 =================================Quantumultx=========================
 [task_local]
 #环游记
-20 3,2 * * * https://raw.githubusercontent.com/jiulan/platypus/main/scripts/jd_hyj.js, tag=环游记, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+20 3,2 * * * https://raw.githubusercontent.com/iswater/rules/main/js/jd_hyj.js, tag=环游记, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 =================================Loon===================================
 [Script]
 cron "20 3,2 * * *" script-path=https://raw.githubusercontent.com/jiulan/platypus/main/scripts/jd_hyj.js,tag=环游记
