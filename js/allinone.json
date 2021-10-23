@@ -553,6 +553,8 @@
         "0 11 8 * * * https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js, tag=微博&钱包, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true",
         "4 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/mydigit.js, tag=数码之家, img-url=https://ghproxy.com/https://raw.githubusercontent.com/Orz-3/mini/master/Color/mydigit.png, enabled=true",
         "*/10 */3 * * * https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jukan.js, tag=聚看点, img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/jukan.png, enabled=true",
-        "*/30 * * * * https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/baiduspeed.png, enabled=true"
+        "*/30 * * * * https://ghproxy.com/https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://github.com/Sunert/ProxyConfig/raw/master/QuantumultX/Rules/Images/ICON/baiduspeed.png, enabled=true",
+        "20 3,2 * * * https://raw.githubusercontent.com/iswater/rules/main/js/jd_hyj.js, tag=环游记, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true"
+        
     ]
 }
